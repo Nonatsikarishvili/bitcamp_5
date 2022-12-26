@@ -24,6 +24,8 @@
     font-size: 18px;
     font-weight: 700;
     color: #FFFFFF;
+    border:none;
+    z-index: 1;
     
 }
 .button1:hover{
@@ -67,6 +69,7 @@
     font-size: 18px;
     color: #FFFFFF;
     font-weight: 700;
+    border:none;
 }
 .button2:hover{
     color: #FFFFFF;
@@ -188,3 +191,34 @@ img{
     margin-bottom: 140px;
 }
 
+.footer{
+    width: 100%;
+    background-color: #13183F;
+}
+.footer-box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 32px;
+    padding-bottom: 32px;
+
+}
+.f-logo{
+    font-size: 36px;
+    color: #FFFFFF;
+    font-weight: 800;
+    line-height: 45px;
+}
+.f-button{
+    background-image: linear-gradient(#4851FF,#F02AA6);
+    width: 167px;
+    height: 56px;
+    border-radius: 28px;
+    font-size: 18px;
+    font-weight: 700;
+    color: #FFFFFF;
+    border:none;
+}
+.f-button:hover{
+    opacity: 50%;
+}
