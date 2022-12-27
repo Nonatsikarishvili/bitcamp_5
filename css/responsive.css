@@ -1,0 +1,202 @@
+@media (max-width: 1050px){
+    .container{
+        max-width: 900px;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .box-1{
+        margin-bottom: 0;
+        margin-bottom: 80px;
+    }
+    .box-2{
+        margin-bottom: 0;
+        margin-bottom: 80px;
+    }
+    .box-3{
+        margin-bottom: 0;
+        margin-bottom: 80px;
+    }
+    .box-4{
+        margin-bottom: 0;
+        margin-bottom: 80px;
+    }
+    img{
+        width: 700px;
+        position: absolute;
+        top: 80px;
+        right: -50px;
+        z-index: 0;
+    }
+.h1{
+    width: 300px;
+
+}
+.p1{
+    width: 300px;
+}
+}
+
+
+
+
+@media (max-width: 950px){
+    .container{
+        max-width: 689px;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .header-box{
+        padding-top: 31px;
+        padding-bottom: 49px;
+    }
+    .logo{ 
+        font-size: 28px;
+        color: #13183F;
+        font-weight: 800;
+        line-height: 35px;
+    }
+    .button1{
+        background-color: #13183F;
+        width: 140px;
+        height: 48px;
+        border-radius: 28px;
+        font-size: 16px;
+        font-weight: 700;
+        
+    }
+    /* section1 */
+    .left-box{
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        z-index: 5;
+    }
+    
+    .h1{
+        max-width: 326px;
+        width: 100%;
+        font-size: 40px;
+        font-weight: 800;
+        line-height: 50px;
+        margin-bottom: 25px;
+    }
+    .p1{
+        max-width: 398px;
+        width: 100%;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 26px;
+        margin-bottom: 24px;
+    }
+    .button2{
+        height: 56px;
+        font-size: 16px;
+    }
+    
+    img{
+        display: none;
+    
+    }
+    .imgg1{
+        display:block;
+        max-width: 300px;
+        width: 35%;
+    }
+    .section1-1{
+        margin-bottom: 136px;
+    }
+
+    /* start section2 */
+
+.box-1{
+    max-width: 339px;
+    width: 100%;
+    height: 259px;
+    border-radius: 10px;
+    margin-bottom: 56px;
+}
+.h2{
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 32px;
+    padding-top: 56px;
+    margin-bottom: 139px;
+}
+.box-img{
+    position: absolute;
+    left: 32px;
+    top: -28px;
+    width: 56px;
+    height: 56px;
+}
+.box-2{
+    max-width: 340px;
+    width: 100%;
+    height: 259px;
+    border-radius: 10px;
+    margin-bottom: 56px;
+    position: relative;
+
+}
+.box-h{
+    font-size: 20px;
+    margin-bottom: 16px;
+    margin-top: 56px;
+
+}
+.box-p{
+    font-size: 16px;
+
+}
+.box-a{
+    margin-bottom: 32px;
+
+}
+.box-3{
+    max-width: 340px;
+    width: 100%;
+    height: 259px;
+    border-radius: 10px;
+    margin-bottom: 56px;
+    position: relative;
+}
+.box-4{
+    max-width: 340px;
+    width: 100%;
+    height: 259px;
+    border-radius: 10px;
+    margin-bottom: 56px;
+    position: relative;
+}
+.box-5{
+    max-width: 340px;
+    width: 100%;
+    height: 259px;
+    border-radius: 10px;
+    margin-bottom: 86px;
+    position: relative;
+}
+.box-6{
+    max-width: 340px;
+    width: 100%;
+    height: 259px;
+    border-radius: 10px;
+    margin-bottom: 86px;
+    position: relative;
+}
+
+.footer-box{
+    padding-top: 36px;
+    padding-bottom: 36px;
+
+}
+.f-logo{
+    font-size: 28px;
+    line-height: 35px;
+}
+.f-button{
+    width: 140px;
+    height: 48px;
+    font-size: 16px;
+}
+}
